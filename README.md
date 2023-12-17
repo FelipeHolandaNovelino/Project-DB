@@ -26,15 +26,13 @@ I set up some indices for improved performance:
 - Index on customer ID in orders to link customers to their orders.
 - Index on order date.
 
-# Database Project - Mercurio 
-Database Project - Mercurio
-
 ## Population
 Added some dummy data for better visualization.
 
 ## Queries
 Created several queries for administrative purposes. Given the nature of a store, there are countless queries that could be of interest. I've included the following 5.
-# Projeto de Banco de Dados - Mercúrio 1
+
+# Projeto de Banco de Dados - Mercúrio 
 Projeto de Banco de Dados - Mercúrio
 
 ## Design do Banco de Dados
@@ -61,9 +59,6 @@ Configurei alguns índices para melhorar o desempenho:
 - Índice na categoria do produto.
 - Índice no ID do cliente nos pedidos para vincular clientes aos seus pedidos.
 - Índice na data do pedido.
-
-# Projeto de Banco de Dados - Mercúrio 2
-Projeto de Banco de Dados - Mercúrio
 
 ## População
 Adicionei alguns dados fictícios para uma melhor visualização.
