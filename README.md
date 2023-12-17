@@ -1,5 +1,4 @@
 # Database Project - Mercurio 
-Database Project - Mercurio
 
 ## Database Design
 This is a database project I created to manage information about customers, products, and orders for a store that sells frames and fabrics— the same store for which I did my web project. The idea is to keep everything organized to facilitate store management.
@@ -33,7 +32,6 @@ Added some dummy data for better visualization.
 Created several queries for administrative purposes. Given the nature of a store, there are countless queries that could be of interest. I've included the following 5.
 
 # Projeto de Banco de Dados - Mercúrio 
-Projeto de Banco de Dados - Mercúrio
 
 ## Design do Banco de Dados
 Este é um projeto de banco de dados que montei para gerenciar informações de clientes, produtos e pedidos de uma loja que vende quadros e tecidos, a mesma loja na qual fiz meu projeto web. A ideia é manter tudo organizado para facilitar o gerenciamento da loja.
